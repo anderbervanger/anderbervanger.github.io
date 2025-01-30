@@ -4,7 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# WHOMAI
 Hi, I'm Ânderson. :)
 
 Bachelor's Degree in Information Systems with over 10 years of experience in IT infrastructure, user support, and IT project implementation. Currently working in the area of Information Security, focusing on:
@@ -23,3 +22,5 @@ Bachelor's Degree in Information Systems with over 10 years of experience in IT 
  - Implementation of personal data protection measures in accordance with the General Data Protection Law (LGPD).
  - Development of policies and procedures to ensure the confidentiality, integrity, and availability of data.
  - Training of employees on the LGPD.
+  
+Get in touch: [LinkedIn](https://www.linkedin.com/in/andersonbervanger/?locale=en_US)
