@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Astronaut - Walkthrough
-date: 30-01-2025
-categories: [writeups]
-tags: [Linux, Easy]
+title: Astronaut - Proving Grounds
+date: 28-01-2025
+categories: [Writeups]
+tag: [Proving Grounds, Linux, Easy]
 ---
 
 # Astronaut - Walkthrough
