@@ -19,7 +19,7 @@ Astronaut is an easy box on OFFSEC’s Proving Grounds and the community agrees 
 ## Recon
 Start scanning all ports:
 ```
-nmap -p- 22,80 192.168.60.12 -v
+nmap -p- 192.168.60.12 -v
 ```
 ![Scan de todas as portas](/assets/images/Astronaut/1.png)
 
